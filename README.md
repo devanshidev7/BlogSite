@@ -1,4 +1,4 @@
-My Blog Sitw which you can also use as a template.
+My Blog Site which you can also use as a template.
 Live Site- https://pandablogs.vercel.app/
 
 ![image](https://user-images.githubusercontent.com/89985177/181924943-1dfab953-5b7b-41da-aba3-13962bcac7a8.png)
