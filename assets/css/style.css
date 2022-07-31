@@ -467,7 +467,7 @@ header .btn-group {
 }
 
 .blog .h4:hover {
-  color: var(--accent);
+  color: lightskyblue;
 }
 
 .blog .text-sm {
@@ -916,7 +916,7 @@ footer .wrapper {
   }
 
   .aside .h2 {
-    color: var(--foreground-secondary);
+    color: lightskyblue;
     margin-bottom: 3rem;
     text-align: center;
     line-height: 1.3;
